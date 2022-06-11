@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-10T20:49:49Z" name="Suite" finished-at="2022-06-10T20:50:33Z" duration-ms="43825">
+    <groups>
+    </groups>
+    <test started-at="2022-06-10T20:49:49Z" name="Validating Register page" finished-at="2022-06-10T20:50:02Z" duration-ms="12602">
+      <class name="Uniform.Validateregisterpage">
+        <test-method signature="initialize()[pri:0, instance:Uniform.Validateregisterpage@29ef6856]" started-at="2022-06-11T02:19:49Z" name="initialize" finished-at="2022-06-11T02:20:02Z" duration-ms="12578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+      </class> <!-- Uniform.Validateregisterpage -->
+    </test> <!-- Validating Register page -->
+    <test started-at="2022-06-10T20:50:02Z" name="Validating Login page" finished-at="2022-06-10T20:50:11Z" duration-ms="9307">
+      <class name="Uniform.ValidateLogin">
+        <test-method signature="initialize()[pri:0, instance:Uniform.ValidateLogin@119f1f2a]" started-at="2022-06-11T02:20:02Z" name="initialize" finished-at="2022-06-11T02:20:11Z" duration-ms="9296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+      </class> <!-- Uniform.ValidateLogin -->
+    </test> <!-- Validating Login page -->
+    <test started-at="2022-06-10T20:50:11Z" name="Validating ContactUs page" finished-at="2022-06-10T20:50:22Z" duration-ms="10679">
+      <class name="Uniform.ValidateContactUsPage">
+        <test-method signature="initialize()[pri:0, instance:Uniform.ValidateContactUsPage@3f2ef586]" started-at="2022-06-11T02:20:11Z" name="initialize" finished-at="2022-06-11T02:20:22Z" duration-ms="10672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+      </class> <!-- Uniform.ValidateContactUsPage -->
+    </test> <!-- Validating ContactUs page -->
+    <test started-at="2022-06-10T20:50:22Z" name="Validating ProductReturn page" finished-at="2022-06-10T20:50:33Z" duration-ms="11121">
+      <class name="Uniform.ValidateProductReturnPage">
+        <test-method signature="initialize()[pri:0, instance:Uniform.ValidateProductReturnPage@611df6e3]" started-at="2022-06-11T02:20:22Z" name="initialize" finished-at="2022-06-11T02:20:33Z" duration-ms="11117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+      </class> <!-- Uniform.ValidateProductReturnPage -->
+    </test> <!-- Validating ProductReturn page -->
+  </suite> <!-- Suite -->
+</testng-results>
